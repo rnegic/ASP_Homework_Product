@@ -1,0 +1,15 @@
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\bin\Debug\net6.0\mnogochleny.exe
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\bin\Debug\net6.0\mnogochleny.deps.json
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\bin\Debug\net6.0\mnogochleny.runtimeconfig.json
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\bin\Debug\net6.0\mnogochleny.dll
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\bin\Debug\net6.0\mnogochleny.pdb
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\mnogochleny.csproj.AssemblyReference.cache
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\mnogochleny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\mnogochleny.AssemblyInfoInputs.cache
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\mnogochleny.AssemblyInfo.cs
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\mnogochleny.csproj.CoreCompileInputs.cache
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\mnogochleny.dll
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\refint\mnogochleny.dll
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\mnogochleny.pdb
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\mnogochleny.genruntimeconfig.cache
+C:\Users\arneg\source\repos\mnogochleny\mnogochleny\obj\Debug\net6.0\ref\mnogochleny.dll

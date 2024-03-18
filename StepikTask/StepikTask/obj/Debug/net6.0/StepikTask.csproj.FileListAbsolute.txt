@@ -1,0 +1,15 @@
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\StepikTask.csproj.AssemblyReference.cache
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\StepikTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\StepikTask.AssemblyInfoInputs.cache
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\StepikTask.AssemblyInfo.cs
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\StepikTask.csproj.CoreCompileInputs.cache
+C:\Users\arneg\source\repos\StepikTask\StepikTask\bin\Debug\net6.0\StepikTask.exe
+C:\Users\arneg\source\repos\StepikTask\StepikTask\bin\Debug\net6.0\StepikTask.deps.json
+C:\Users\arneg\source\repos\StepikTask\StepikTask\bin\Debug\net6.0\StepikTask.runtimeconfig.json
+C:\Users\arneg\source\repos\StepikTask\StepikTask\bin\Debug\net6.0\StepikTask.dll
+C:\Users\arneg\source\repos\StepikTask\StepikTask\bin\Debug\net6.0\StepikTask.pdb
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\StepikTask.dll
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\refint\StepikTask.dll
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\StepikTask.pdb
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\StepikTask.genruntimeconfig.cache
+C:\Users\arneg\source\repos\StepikTask\StepikTask\obj\Debug\net6.0\ref\StepikTask.dll

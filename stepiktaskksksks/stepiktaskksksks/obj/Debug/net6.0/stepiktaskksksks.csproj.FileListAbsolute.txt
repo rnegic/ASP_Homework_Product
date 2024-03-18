@@ -1,0 +1,15 @@
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\stepiktaskksksks.csproj.AssemblyReference.cache
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\stepiktaskksksks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\stepiktaskksksks.AssemblyInfoInputs.cache
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\stepiktaskksksks.AssemblyInfo.cs
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\stepiktaskksksks.csproj.CoreCompileInputs.cache
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\bin\Debug\net6.0\stepiktaskksksks.exe
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\bin\Debug\net6.0\stepiktaskksksks.deps.json
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\bin\Debug\net6.0\stepiktaskksksks.runtimeconfig.json
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\bin\Debug\net6.0\stepiktaskksksks.dll
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\bin\Debug\net6.0\stepiktaskksksks.pdb
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\stepiktaskksksks.dll
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\refint\stepiktaskksksks.dll
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\stepiktaskksksks.pdb
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\stepiktaskksksks.genruntimeconfig.cache
+C:\Users\arneg\source\repos\stepiktaskksksks\stepiktaskksksks\obj\Debug\net6.0\ref\stepiktaskksksks.dll

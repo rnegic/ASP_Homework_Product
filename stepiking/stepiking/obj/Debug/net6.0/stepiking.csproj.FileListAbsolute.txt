@@ -1,0 +1,15 @@
+C:\Users\arneg\source\repos\stepiking\stepiking\bin\Debug\net6.0\stepiking.exe
+C:\Users\arneg\source\repos\stepiking\stepiking\bin\Debug\net6.0\stepiking.deps.json
+C:\Users\arneg\source\repos\stepiking\stepiking\bin\Debug\net6.0\stepiking.runtimeconfig.json
+C:\Users\arneg\source\repos\stepiking\stepiking\bin\Debug\net6.0\stepiking.dll
+C:\Users\arneg\source\repos\stepiking\stepiking\bin\Debug\net6.0\stepiking.pdb
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\stepiking.csproj.AssemblyReference.cache
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\stepiking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\stepiking.AssemblyInfoInputs.cache
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\stepiking.AssemblyInfo.cs
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\stepiking.csproj.CoreCompileInputs.cache
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\stepiking.dll
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\refint\stepiking.dll
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\stepiking.pdb
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\stepiking.genruntimeconfig.cache
+C:\Users\arneg\source\repos\stepiking\stepiking\obj\Debug\net6.0\ref\stepiking.dll

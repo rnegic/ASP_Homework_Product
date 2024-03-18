@@ -1,0 +1,5 @@
+C:\Users\arneg\source\repos\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.csproj.AssemblyReference.cache
+C:\Users\arneg\source\repos\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneg\source\repos\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.AssemblyInfoInputs.cache
+C:\Users\arneg\source\repos\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.AssemblyInfo.cs
+C:\Users\arneg\source\repos\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.csproj.CoreCompileInputs.cache

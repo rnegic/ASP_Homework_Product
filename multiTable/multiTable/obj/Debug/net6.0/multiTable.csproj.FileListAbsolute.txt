@@ -1,0 +1,15 @@
+C:\Users\arneg\source\repos\multiTable\multiTable\bin\Debug\net6.0\multiTable.exe
+C:\Users\arneg\source\repos\multiTable\multiTable\bin\Debug\net6.0\multiTable.deps.json
+C:\Users\arneg\source\repos\multiTable\multiTable\bin\Debug\net6.0\multiTable.runtimeconfig.json
+C:\Users\arneg\source\repos\multiTable\multiTable\bin\Debug\net6.0\multiTable.dll
+C:\Users\arneg\source\repos\multiTable\multiTable\bin\Debug\net6.0\multiTable.pdb
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\multiTable.csproj.AssemblyReference.cache
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\multiTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\multiTable.AssemblyInfoInputs.cache
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\multiTable.AssemblyInfo.cs
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\multiTable.csproj.CoreCompileInputs.cache
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\multiTable.dll
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\refint\multiTable.dll
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\multiTable.pdb
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\multiTable.genruntimeconfig.cache
+C:\Users\arneg\source\repos\multiTable\multiTable\obj\Debug\net6.0\ref\multiTable.dll

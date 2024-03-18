@@ -1,0 +1,15 @@
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\stepik.csproj.AssemblyReference.cache
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\stepik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\stepik.AssemblyInfoInputs.cache
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\stepik.AssemblyInfo.cs
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\stepik.csproj.CoreCompileInputs.cache
+C:\Users\arneg\source\repos\stepik\stepik\bin\Debug\net6.0\stepik.exe
+C:\Users\arneg\source\repos\stepik\stepik\bin\Debug\net6.0\stepik.deps.json
+C:\Users\arneg\source\repos\stepik\stepik\bin\Debug\net6.0\stepik.runtimeconfig.json
+C:\Users\arneg\source\repos\stepik\stepik\bin\Debug\net6.0\stepik.dll
+C:\Users\arneg\source\repos\stepik\stepik\bin\Debug\net6.0\stepik.pdb
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\stepik.dll
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\refint\stepik.dll
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\stepik.pdb
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\stepik.genruntimeconfig.cache
+C:\Users\arneg\source\repos\stepik\stepik\obj\Debug\net6.0\ref\stepik.dll

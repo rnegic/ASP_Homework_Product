@@ -1,0 +1,11 @@
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\bin\Debug\AutoRacing.exe.config
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\bin\Debug\AutoRacing.exe
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\bin\Debug\AutoRacing.pdb
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\obj\Debug\AutoRacing.csproj.AssemblyReference.cache
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\obj\Debug\AutoRacing.csproj.SuggestedBindingRedirects.cache
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\obj\Debug\AutoRacing.AutoRacing.resources
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\obj\Debug\AutoRacing.Properties.Resources.resources
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\obj\Debug\AutoRacing.csproj.GenerateResource.cache
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\obj\Debug\AutoRacing.csproj.CoreCompileInputs.cache
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\obj\Debug\AutoRacing.exe
+C:\Users\arneg\source\repos\AutoRacing\AutoRacing\obj\Debug\AutoRacing.pdb

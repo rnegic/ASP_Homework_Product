@@ -1,0 +1,15 @@
+C:\Users\arneg\source\repos\stepiklast\stepiklast\bin\Debug\net6.0\stepiklast.exe
+C:\Users\arneg\source\repos\stepiklast\stepiklast\bin\Debug\net6.0\stepiklast.deps.json
+C:\Users\arneg\source\repos\stepiklast\stepiklast\bin\Debug\net6.0\stepiklast.runtimeconfig.json
+C:\Users\arneg\source\repos\stepiklast\stepiklast\bin\Debug\net6.0\stepiklast.dll
+C:\Users\arneg\source\repos\stepiklast\stepiklast\bin\Debug\net6.0\stepiklast.pdb
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\stepiklast.csproj.AssemblyReference.cache
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\stepiklast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\stepiklast.AssemblyInfoInputs.cache
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\stepiklast.AssemblyInfo.cs
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\stepiklast.csproj.CoreCompileInputs.cache
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\stepiklast.dll
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\refint\stepiklast.dll
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\stepiklast.pdb
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\stepiklast.genruntimeconfig.cache
+C:\Users\arneg\source\repos\stepiklast\stepiklast\obj\Debug\net6.0\ref\stepiklast.dll
