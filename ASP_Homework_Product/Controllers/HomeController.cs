@@ -18,15 +18,9 @@ namespace ASP_Homework_Product.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public ActionResult Index()
         {
-            var products = new List<Product>
-            {
-                new Product { Id = 1, Name = "пицца", Cost = 450, Description = "вкуснейшая" },
-                new Product { Id = 2, Name = "таук", Cost = 300, Description = "сочный" },
-                new Product { Id = 3, Name = "паук", Cost = 990, Description = "паучок" }
-            };
-
+            var products = ProductList.GetProducts();
             return View(products);
         }
 
