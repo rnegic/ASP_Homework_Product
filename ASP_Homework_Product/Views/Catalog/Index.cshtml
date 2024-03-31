@@ -1,0 +1,13 @@
+﻿@model IEnumerable<ASP_Homework_Product.Models.Product>
+
+@foreach (var product in Model)
+{
+    <div class="card">
+        <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png" class="card-img-top" alt="trollface" style="max-width:500px;>
+        <div class="card-body">
+            <h5 class="card-title">@product.Name</h5>
+            <p class="card-text">@product.Description</p>
+            <p class="card-text">Цена: @product.Cost</p>
+            <a href="@Url.Action("Index", "Product", new { id = product.Id })" class="btn btn-primary">Посмотреть товар</a>
+    </div>
+}

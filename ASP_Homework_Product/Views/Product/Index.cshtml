@@ -1,11 +1,12 @@
 ﻿@model ASP_Homework_Product.Models.Product
 
-<h2>@Model.Name</h2>
-
-<p>
-    Цена: @Model.Cost
-</p>
-
-<p>
-    Описание: @Model.Description
-</p>
+<div class="card">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png" class="card-img-top" alt="product" style="max-width:500px;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <p class="card-text">Цена: @Model.Cost</p>
+        <a href="@Url.Action("Index", "Catalog")" class="btn btn-primary">Продолжить покупки</a>
+        <a href="#" class="btn btn-success">Добавить в корзину</a>
+    </div>
+</div>
