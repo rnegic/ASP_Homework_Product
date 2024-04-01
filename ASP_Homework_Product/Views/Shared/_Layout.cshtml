@@ -24,6 +24,12 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        <li>
+                            <a href="@Url.Action("Index", "Catalog")" class="btn btn-danger">Каталог</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("Index", "Cart")" class="btn btn-primary">Корзина</a>
+                        </li>
                     </ul>
                 </div>
             </div>

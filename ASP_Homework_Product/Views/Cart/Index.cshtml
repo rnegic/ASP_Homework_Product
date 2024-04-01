@@ -1,0 +1,30 @@
+﻿@model Cart
+
+@if (Model.Items.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Название</th>
+                <th>Количество</th>
+                <th>Цена</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Product.Cost</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>Итого: @Model.TotalPrice</p>
+    <a href="#" class="btn btn-primary">оформить заказ</a>
+}
+else
+{
+    <p>корзина пуста</p>
+}
