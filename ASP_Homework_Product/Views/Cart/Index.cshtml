@@ -1,13 +1,13 @@
-﻿@model Cart
+﻿@model ASP_Homework_Product.Models.Cart
 
 @if (Model.Items.Any())
 {
     <table class="table">
         <thead>
             <tr>
-                <th>Название</th>
-                <th>Количество</th>
-                <th>Цена</th>
+                <th>Название позиции</th>
+                <th>Количество товара в позиции</th>
+                <th>Стоимость позиции</th>
             </tr>
         </thead>
         <tbody>
@@ -16,12 +16,12 @@
                 <tr>
                     <td>@item.Product.Name</td>
                     <td>@item.Quantity</td>
-                    <td>@item.Product.Cost</td>
+                    <td>@item.Product.Cost * @item.Quantity</td>
                 </tr>
             }
         </tbody>
     </table>
-    <p>Итого: @Model.TotalPrice</p>
+    <p>Итоговая сумма: @Model.TotalPrice</p>
     <a href="#" class="btn btn-primary">оформить заказ</a>
 }
 else

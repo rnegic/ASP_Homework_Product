@@ -6,10 +6,14 @@ namespace ASP_Homework_Product.Controllers
 {
     public class CatalogController : Controller
     {
-        // GET: CatalogController
+        private readonly IProductRepository _productRepository;
+        public CatalogController(IProductRepository productRepository)
+        {
+            _productRepository = productRepository;
+        }
         public ActionResult Index()
         {
-            var products = ProductList.GetProducts();
+            var products = _productRepository.GetAllProducts();
             return View(products);
         }
 

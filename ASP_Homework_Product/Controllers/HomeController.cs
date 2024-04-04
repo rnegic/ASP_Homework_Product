@@ -20,8 +20,7 @@ namespace ASP_Homework_Product.Controllers
 
         public ActionResult Index()
         {
-            var products = ProductList.GetProducts();
-            return View(products);
+            return View();
         }
 
         public IActionResult Privacy()

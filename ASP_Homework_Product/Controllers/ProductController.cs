@@ -6,18 +6,25 @@ namespace ASP_Homework_Product.Controllers
 {
     public class ProductController : Controller
     {
-		public ActionResult Index(int id)
-		{
-			var product = ProductList.GetProductById(id);
+        private readonly IProductRepository _productRepository;
 
-			if (product == null)
-			{
-				throw new System.Exception("404");
-			}
-			return View(product);
-		}
+        public ProductController(IProductRepository productRepository)
+        {
+            _productRepository = productRepository;
+        }
 
-		public ActionResult Details(int id)
+        public ActionResult Index(int id)
+        {
+            var product = _productRepository.GetProductById(id);
+
+            if (product == null)
+            {
+                return NotFound();
+            }
+            return View(product);
+        }
+
+        public ActionResult Details(int id)
         {
             return View();
         }

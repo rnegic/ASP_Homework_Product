@@ -8,18 +8,26 @@ namespace ASP_Homework_Product.Controllers
 {
     public class CartController : Controller
     {
-        private static Cart _cart = new Cart();
+        private readonly ICartService _cartService;
+        private readonly IProductRepository _productRepository;
+
+        public CartController(ICartService cartService, IProductRepository productRepository)
+        {
+            _cartService = cartService;
+            _productRepository = productRepository;
+        }
 
         public ActionResult Index()
         {
-            return View(_cart);
+            var cart = _cartService.GetCart();
+            return View(cart);
         }
         public ActionResult AddToCart(int productId)
         {
-            var product = ProductList.GetProductById(productId);
+            var product = _productRepository.GetProductById(productId);
             if (product != null)
             {
-                _cart.AddItem(product);
+                _cartService.AddItem(product);
             }
             return RedirectToAction("Index");
         }
